@@ -1,2 +1,2 @@
 const fs = require('fs');
-const inquirer = require('inquirera')
+const inquirer = require('inquirer')
